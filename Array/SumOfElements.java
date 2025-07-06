@@ -1,5 +1,5 @@
 package Demo_Array;
-//Total Sum of Arrya Elements 
+//Total Sum of all the elements in the given Array
 public class Demo3 {
 
 	public static void main(String[] args) {
