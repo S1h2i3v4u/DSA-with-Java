@@ -1,6 +1,6 @@
 package Demo_Array;
 //Total Sum of all the elements in the given Array
-public class Demo3 {
+public class SumOfElements {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
